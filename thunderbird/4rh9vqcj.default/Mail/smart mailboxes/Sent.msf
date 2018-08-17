@@ -1,0 +1,75 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (80=ns:msg:db:row:scope:msgs:all)(81=subject)(82=sender)(83=message-id)
+  (84=references)(85=recipients)(86=date)(87=size)(88=flags)(89=priority)
+  (8A=label)(8B=statusOfset)(8C=numLines)(8D=ccList)(8E=bccList)
+  (8F=msgThreadId)(90=threadId)(91=threadFlags)(92=threadNewestMsgDate)
+  (93=children)(94=unreadChildren)(95=threadSubject)(96=msgCharSet)
+  (97=ns:msg:db:table:kind:msgs)(98=ns:msg:db:table:kind:thread)
+  (99=ns:msg:db:table:kind:allthreads)
+  (9A=ns:msg:db:row:scope:threads:all)(9B=threadParent)(9C=threadRoot)
+  (9D=msgOffset)(9E=offlineMsgSize)
+  (9F=ns:msg:db:row:scope:dbfolderinfo:all)
+  (A0=ns:msg:db:table:kind:dbfolderinfo)(A1=numMsgs)(A2=numNewMsgs)
+  (A3=folderSize)(A4=expungedBytes)(A5=folderDate)(A6=highWaterKey)
+  (A7=mailboxName)(A8=UIDValidity)(A9=totPendingMsgs)
+  (AA=unreadPendingMsgs)(AB=expiredMark)(AC=version)(AD=forceReparse)
+  (AE=fixedBadRefThreading)(AF=folderName)(B0=charSetOverride)
+  (B1=charSet)(B2=searchStr)(B3=searchFolderUri)(B4=searchFolderFlag)
+  (B5=searchOnline)>
+
+<(80=1)(81=0)(ADC=224)(83=Sent)(84=5ac4c466)(86=ALL)(ADD
+    =imap://a0876520@email.ti.com/Sent Items)(88=200)(1029=fa2)(AE8=a62)
+  (EDF=e59)(F1A=e93)>
+{1:^9F {(k^A0:c)(s=9)} 
+  [1(^AC=1)(^AD=0)(^AE=1)(^88=224)(^A7^83)(^A3=0)(^A5^84)(^B2^86)(^B3^ADD)
+    (^B4^88)(^B5=1)(^A1=fa2)(^A1=a62)(^A1=e59)(^A1=e93)]}
+
+@$${1A{@
+<(1033=fac)>[1:^9F(^A1=fac)]
+@$$}1A}@
+
+@$${1B{@
+<(103D=fb6)>[1:^9F(^A1=fb6)]
+@$$}1B}@
+
+@$${1C{@
+@$$}1C}@
+
+@$${1E{@
+{-1:^80 {(k^97:c)(s=9)} }
+{-FFFFFFFD:^9A {(k^99:c)(s=9)} }
+<(103E=fb5)>[1:^9F(^A1=fb5)]
+@$$}1E}@
+
+@$${1F{@
+@$$}1F}@
+
+@$${20{@
+[1:^9F(^A1=fb6)]
+@$$}20}@
+
+@$${21{@
+@$$}21}@
+
+@$${22{@
+<(103F=fb7)>[1:^9F(^A1=fb7)]
+@$$}22}@
+
+@$${23{@
+@$$}23}@
+
+@$${25{@
+<(1040=fb8)>[1:^9F(^A1=fb8)]
+@$$}25}@
+
+@$${26{@
+[1:^9F(^A1=fb7)]
+@$$}26}@
+
+@$${27{@
+[1:^9F(^A1=fb8)]
+@$$}27}@
+
+@$${28{@
+@$$}28}@

@@ -1,0 +1,14 @@
+<!ENTITY dialog.exchWebService.preInvitationResponse.title "Hur vill du agera?">
+<!ENTITY label.acceptbutton "Utför">
+<!ENTITY label.cancelbutton "Avbryt">
+
+<!ENTITY label.calendarName "Kalender:">
+<!ENTITY label.itemTitle "Ämne:">
+<!ENTITY label.itemStart "Starttid:">
+<!ENTITY label.itemResponse "Ditt svar:">
+<!ENTITY label.meetingOrganiser "Arrangör:">
+
+<!ENTITY radio.label.exchWebService.preInvitationResponse.edit "Redigera svaret innan det skickas.">
+<!ENTITY radio.label.exchWebService.preInvitationResponse.sendnow "Skicka svaret nu.">
+<!ENTITY radio.label.exchWebService.preInvitationResponse.donotsend "Skicka inget svar.">
+

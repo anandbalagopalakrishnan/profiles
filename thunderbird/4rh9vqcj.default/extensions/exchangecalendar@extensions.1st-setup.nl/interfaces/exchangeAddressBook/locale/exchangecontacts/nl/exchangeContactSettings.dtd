@@ -1,0 +1,11 @@
+<!ENTITY label.acceptbutton "Opslaan">
+<!ENTITY label.cancelbutton "Annuleer">
+
+<!ENTITY ecsettings.tab.adsettings "Exchange/Windows AD">
+<!ENTITY ecsettings.tab.meetingrequestsettings "Vergader verzoeken">
+
+<!ENTITY label.ecExchangeSettings.title "Naam in lijst:">
+<!ENTITY exchangeWebService.preference.contacts.pollinterval "Ververs interval in seconden:">
+
+<!ENTITY exchWebService.add.globaladdresslist.label "Voeg de globale adres lijst toe aan de zoek resultaten.">
+

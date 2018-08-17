@@ -1,0 +1,11 @@
+version=1
+uri=mailbox://nobody@smart%20mailboxes/Sent
+searchFolderFlag=200
+scope=imap://a0876520@email.ti.com/Sent Items
+terms=ALL
+searchOnline=true
+uri=mailbox://nobody@smart%20mailboxes/Trash
+searchFolderFlag=100
+scope=mailbox://nobody@Local%20Folders/Trash|imap://a0876520@email.ti.com/Trash/Read|imap://a0876520@email.ti.com/Trash/Sent
+terms=ALL
+searchOnline=true

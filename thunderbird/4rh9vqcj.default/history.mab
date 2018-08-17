@@ -1,0 +1,314 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=LastModifiedDate)(B9=RecordKey)(BA=AddrCharSet)(BB=LastRecordKey)
+  (BC=ns:addrbk:db:table:kind:pab)(BD=ListName)(BE=ListNickName)
+  (BF=ListDescription)(C0=ListTotalAddresses)(C1=LowercaseListName)
+  (C2=ns:addrbk:db:table:kind:deleted)(C3=DbRowID)(C4=PreferDisplayName)
+  (C5=_GoogleTalk)(80=ns:addrbk:db:row:scope:card:all)
+  (81=ns:addrbk:db:row:scope:list:all)
+  (82=ns:addrbk:db:row:scope:data:all)(83=FirstName)(84=LastName)
+  (85=PhoneticFirstName)(86=PhoneticLastName)(87=DisplayName)
+  (88=NickName)(89=PrimaryEmail)(8A=LowercasePrimaryEmail)
+  (8B=SecondEmail)(8C=LowercaseSecondEmail)(8D=PreferMailFormat)
+  (8E=PopularityIndex)(8F=WorkPhone)(90=HomePhone)(91=FaxNumber)
+  (92=PagerNumber)(93=CellularNumber)(94=WorkPhoneType)(95=HomePhoneType)
+  (96=FaxNumberType)(97=PagerNumberType)(98=CellularNumberType)
+  (99=HomeAddress)(9A=HomeAddress2)(9B=HomeCity)(9C=HomeState)
+  (9D=HomeZipCode)(9E=HomeCountry)(9F=WorkAddress)(A0=WorkAddress2)
+  (A1=WorkCity)(A2=WorkState)(A3=WorkZipCode)(A4=WorkCountry)
+  (A5=JobTitle)(A6=Department)(A7=Company)(A8=_AimScreenName)
+  (A9=AnniversaryYear)(AA=AnniversaryMonth)(AB=AnniversaryDay)
+  (AC=SpouseName)(AD=FamilyName)(AE=WebPage1)(AF=WebPage2)(B0=BirthYear)
+  (B1=BirthMonth)(B2=BirthDay)(B3=Custom1)(B4=Custom2)(B5=Custom3)
+  (B6=Custom4)(B7=Notes)>
+
+<(130=33)(81=R, Karthik)(80=0)(82=1)(83=R,)(84=Karthik)(85
+    =karthik.ramanan@ti.com)(F2=1522918820)(86=Maur, Gagan)(87=2)(88=Maur,)
+  (89=Gagan)(8A=gagan@ti.com)(191=1530858280)(8B=Kumar, Padma)(8C=3)
+  (8D=Kumar,)(8E=Padma)(8F=pkumar@ti.com)(90=Swaminathan, Karthik)(91=4)
+  (92=Swaminathan,)(93=karthikvs@ti.com)(123=1525698647)(94
+    =crc-support@list.ti.com - VPN CRC support team (May contain non-TIers\))
+  (95=5)(96=crc-support@list.ti.com - VPN CRC support team (May contain)
+  (97=non-TIers\))(98=crc-support@list.ti.com)(99
+    =itsec-compliance@list.ti.com - IT Security Compliance Team)(9A=6)
+  (9B=itsec-compliance@list.ti.com - IT Security Compliance)(9C=Team)
+  (9D=itsec-compliance@list.ti.com)(9E
+    =ap_info_sw_gfxdisplay@list.ti.com >> ap_info_sw_gfxdisplay)(9F=7)
+  (A0=ap_info_sw_gfxdisplay@list.ti.com >>)(A1=ap_info_sw_gfxdisplay)
+  (A2=ap_info_sw_gfxdisplay@list.ti.com)(A3=Agrawal, Manisha)(A4=8)
+  (A5=Agrawal,)(A6=Manisha)(A7=manisha.agrawal@ti.com)(F3=1522919015)
+  (A8=Ruei, Eric)(A9=9)(AA=Ruei,)(AB=Eric)(AC=e-ruei1@ti.com)(164
+    =1530173191)(AE=Denys Dmytriyenko)(AF=10)(B0=Denys)(B1=Dmytriyenko)
+  (B2=denys@ti.com)(D3=16)(B4=Prasad, Ram)(B5=11)(B6=Prasad,)(B7=Ram)
+  (B8=x0038811@ti.com)(B9=b)(BA=Valkeinen, Tomi)(BB=12)(BC=Valkeinen,)
+  (BD=Tomi)(BE=tomi.valkeinen@ti.com)(FA=24)(C0=Nadampalli, Sunita)
+  (C1=13)(C2=Nadampalli,)(C3=Sunita)(C4=sunitan@ti.com)(175=1530598490)
+  (C6=Hernandez, Carlos)(C7=14)(C8=Hernandez,)(C9=Carlos)(CA=ceh@ti.com)
+  (145=1529074352)(CC=Humphreys, Jonathan)(CD=15)(CE=Humphreys,)(CF
+    =Jonathan)(D0=j-humphreys@ti.com)(D1=f)(D2=Hernandez, Alejandro)
+  (D4=Alejandro)(D5=ajhernandez@ti.com)(D6=Andrew F. Davis)(D7=17)(D8
+    =Andrew F.)(D9=Davis)(DA=afd@ti.com)(144=1529074351)(DB
+    =Bajjuri, Praneeth)(DC=18)(DD=Bajjuri,)(DE=Praneeth)(DF
+    =praneeth@ti.com)(E0=Jain, Anshu)(E1=19)(E2=Jain,)(E3=Anshu)(E4
+    =anshu.jain@ti.com)(E5=)(E6=20)(E7=b.anand@protonmail.com)(E8
+    =Liu, Xu(SH\))(E9=21)(EA=Liu,)(EB=Xu(SH\))(EC=xu-liu@ti.com)(ED
+    =Paul, Subhajit)(EE=22)(EF=Paul,)(F0=Subhajit)(F1=subhajit_paul@ti.com)
+  (174=1530515128)(173=52)(F4=Gowtham Tammana)(F5=23)(F6=Gowtham)(F7
+    =Tammana)(F8=g-tammana@ti.com)(F9=Ravikumar Kattekola)(FB=Ravikumar)
+  (FC=Kattekola)(FD=rk@ti.com)(FE=Nikhil Devshatwar)(FF=25)(100=Nikhil)
+  (101=Devshatwar)(102=nikhil.nd@ti.com)(103=Shravan Karthik)(104=26)
+  (105=Shravan)(106=shravan.karthik@ti.com)(107=1a)(109=Jack Manbeck)
+  (10A=27)(10B=Jack)(10C=Manbeck)(10D=j-manbeck2@ti.com)(10E=1b)(10F=osrb)
+  (110=28)(111=osrb@list.ti.com)(112=1c)(113=Gaurang Trivedi)(114=29)
+  (115=Gaurang)(116=Trivedi)(117=gtrivedi@ti.com)(118=1d)(119
+    =Srikanth Uppuluri)(11A=30)(11B=srikanthu@gmail.com)(11C=Srikanth)
+  (11D=Uppuluri)(11E=srikanthu)(122=1524572959)(121=48)(124
+    =Broadhurst, Kip)(125=31)(126=Broadhurst,)(127=Kip)(128
+    =kbroadhurst@ti.com)(129=1f)(12A=Mahaveer, Vishal)(12B=32)(12C
+    =Mahaveer,)(12D=Vishal)(12E=vishalm@ti.com)(12F=sdk)(131
+    =sdk@list.ti.com)(132=Sekhar Nori)(133=34)(134=Sekhar)(135=Nori)
+  (136=nsekhar@ti.com)(137=Tallamraju, Vindhya)(138=35)(139=Tallamraju,)
+  (13A=Vindhya)(13B=vindhya@ti.com)(13C=Balasubramanian, Aparna)(13D=36)
+  (13E=Balasubramanian,)(13F=Aparna)(140=aparnab@ti.com)(142=37)(143
+    =linux-patch-review@list.ti.com)(165=55)(146=Vivek Chengalvala)
+  (147=38)(148=Vivek)(149=Chengalvala)(14A=vchengalvala@ti.com)(14B=39)
+  (14C=a0850410@ti.com)(14D=Nishanth Menon)(14E=40)(14F=Nishanth)(150
+    =Menon)(151=nm@ti.com)(152=Thakur, Jayant)(153=41)(154=Thakur,)
+  (155=Jayant)(156=j-thakur1@ti.com)(157=Praveen, Ganapathy)(158=42)
+  (159=Praveen,)(15A=Ganapathy)(15B=prvn@ti.com)(15C=2a)(15D=MG, Biju)
+  (15E=43)(15F=MG,)(160=Biju)(161=biju@ti.com)(162=2b)(166=Suman Anna)
+  (167=44)(168=Suman)(169=Anna)(16A=s-anna@ti.com)(16B=2c)(16C=Dan Murphy)
+  (16D=45)(16E=Dan)(16F=Murphy)(170=dmurphy@ti.com)(171=2d)(176
+    =Kumari, Vimala)(177=46)(178=Kumari,)(179=Vimala)(17A=vimala@ti.com)
+  (17B=2e)(17C=Paul, Nabendu)(17D=47)(17E=Nabendu)(17F=nabendu.paul@ti.com)
+  (180=2f)(181
+    =copslevel2_unix@list.ti.com - Unix L2 Run & Maintain Team (May contain no\
+n-TIers\))(182
+    =copslevel2_unix@list.ti.com - Unix L2 Run & Maintain Team (May contain)
+  (183=copslevel2_unix@list.ti.com)(184=ARNotify)(185=49)(186
+    =srinivas.rao@ti.com)(187=Dutt, Yashwant)(188=50)(189=Dutt,)(18A
+    =Yashwant)(18B=yashwant.dutt@ti.com)(18C=Govindarajan, Sriramakrishnan)
+  (18D=51)(18E=Govindarajan,)(18F=Sriramakrishnan)(190=srk@ti.com)>
+{1:^80 {(k^BC:c)(s=9)} 
+  [1:^82(^BB=33)]
+  [1(^87^81)(^8D=0)(^C3=1)(^8E=1)(^83=R,)(^84^84)(^89^85)(^C4=0)(^B8^F2)
+    (^8A^85)(^B9=1)]
+  [2(^87^86)(^8D=0)(^C3=2)(^8E=1)(^83^88)(^84^89)(^89^8A)(^C4=0)(^B8^191)
+    (^8A^8A)(^B9=2)]
+  [3(^87^8B)(^8D=0)(^C3=3)(^8E=0)(^83^8D)(^84^8E)(^89^8F)(^C4=0)(^B8=0)
+    (^8A^8F)(^B9=3)]
+  [4(^87^90)(^8D=0)(^C3=4)(^8E=1)(^83^92)(^84^84)(^89^93)(^C4=0)(^B8^123)
+    (^8A^93)(^B9=4)]
+  [5(^87^94)(^8D=0)(^C3=5)(^8E=0)(^83^96)(^84^97)(^89^98)(^C4=0)(^B8=0)
+    (^8A^98)(^B9=5)]
+  [6(^87^99)(^8D=0)(^C3=6)(^8E=0)(^83^9B)(^84^9C)(^89^9D)(^C4=0)(^B8=0)
+    (^8A^9D)(^B9=6)]
+  [7(^87^9E)(^8D=0)(^C3=7)(^8E=0)(^83^A0)(^84^A1)(^89^A2)(^C4=0)(^B8=0)
+    (^8A^A2)(^B9=7)]
+  [8(^87^A3)(^8D=0)(^C3=8)(^8E=1)(^83^A5)(^84^A6)(^89^A7)(^C4=0)(^B8^F3)
+    (^8A^A7)(^B9=8)]
+  [9(^87^A8)(^8D=0)(^C3=9)(^8E=5)(^83^AA)(^84^AB)(^89^AC)(^C4=0)(^B8^164)
+    (^8A^AC)(^B9=9)]
+  [A(^87^AE)(^8D=0)(^C3=10)(^8E=2)(^83^B0)(^84^B1)(^89^B2)(^C4=0)(^B8^164)
+    (^8A^B2)(^B9=16)]
+  [B(^87^B4)(^8D=0)(^C3=11)(^8E=0)(^83^B6)(^84^B7)(^89^B8)(^C4=0)(^B8=0)
+    (^8A^B8)(^B9=b)]
+  [C(^87^BA)(^8D=0)(^C3=12)(^8E=3)(^83^BC)(^84^BD)(^89^BE)(^C4=0)(^B8^164)
+    (^8A^BE)(^B9=24)]
+  [D(^87^C0)(^8D=0)(^C3=13)(^8E=1)(^83^C2)(^84^C3)(^89^C4)(^C4=0)(^B8^175)
+    (^8A^C4)(^B9=13)]
+  [E(^87^C6)(^8D=0)(^C3=14)(^8E=1)(^83^C8)(^84^C9)(^89^CA)(^C4=0)(^B8^145)
+    (^8A^CA)(^B9=14)]
+  [F(^87^CC)(^8D=0)(^C3=15)(^8E=0)(^83^CE)(^84^CF)(^89^D0)(^C4=0)(^B8=0)
+    (^8A^D0)(^B9=f)]
+  [10(^87^D2)(^8D=0)(^C3=16)(^8E=0)(^83^C8)(^84^D4)(^89^D5)(^C4=0)(^B8=0)
+    (^8A^D5)(^B9=10)]
+  [11(^87^D6)(^8D=0)(^C3=17)(^8E=1)(^83^D8)(^84^D9)(^89^DA)(^C4=0)(^B8^144)
+    (^8A^DA)(^B9=17)]
+  [12(^87^DB)(^8D=0)(^C3=18)(^8E=0)(^83^DD)(^84^DE)(^89^DF)(^C4=0)(^B8=0)
+    (^8A^DF)(^B9=12)]
+  [13(^87^E0)(^8D=0)(^C3=19)(^8E=0)(^83^E2)(^84^E3)(^89^E4)(^C4=0)(^B8=0)
+    (^8A^E4)(^B9=13)]
+  [14(^87=)(^8D=0)(^C3=20)(^8E=0)(^C4=0)(^89^E7)(^B8=0)(^8A^E7)(^B9=14)]
+  [15(^87^E8)(^8D=0)(^C3=21)(^8E=0)(^83^EA)(^84^EB)(^89^EC)(^C4=0)(^B8=0)
+    (^8A^EC)(^B9=15)]
+  [16(^87^ED)(^8D=0)(^C3=22)(^8E=3)(^83^EF)(^84^F0)(^89^F1)(^C4=0)(^B8^174)
+    (^8A^F1)(^B9=52)]
+  [17(^87^F4)(^8D=0)(^C3=23)(^8E=1)(^83^F6)(^84^F7)(^89^F8)(^C4=0)(^B8^123)
+    (^8A^F8)(^B9=23)]
+  [18(^87^F9)(^8D=0)(^C3=24)(^8E=0)(^83^FB)(^84^FC)(^89^FD)(^C4=0)(^B8=0)
+    (^8A^FD)(^B9=18)]
+  [19(^87^FE)(^8D=0)(^C3=25)(^8E=0)(^83^100)(^84^101)(^89^102)(^C4=0)
+    (^B8=0)(^8A^102)(^B9=19)]
+  [1A(^87^103)(^8D=0)(^C3=26)(^8E=0)(^83^105)(^84^84)(^89^106)(^C4=0)
+    (^B8=0)(^8A^106)(^B9=1a)]
+  [1B(^87^109)(^8D=0)(^C3=27)(^8E=0)(^83^10B)(^84^10C)(^89^10D)(^C4=0)
+    (^B8=0)(^8A^10D)(^B9=1b)]
+  [1C(^87^10F)(^8D=0)(^C3=28)(^8E=0)(^C4=0)(^89^111)(^B8=0)(^8A^111)
+    (^B9=1c)]
+  [1D(^87^113)(^8D=0)(^C3=29)(^8E=0)(^83^115)(^84^116)(^89^117)(^C4=0)
+    (^B8=0)(^8A^117)(^B9=1d)]
+  [1E(^87^119)(^8D=0)(^C3=30)(^8E=2)(^89^11B)(^83^11C)(^84^11D)(^C5^11E)
+    (^C4=0)(^B8^122)(^8A^11B)(^B9=48)]
+  [1F(^87^124)(^8D=0)(^C3=31)(^8E=0)(^83^126)(^84=Kip)(^89^128)(^C4=0)
+    (^B8=0)(^8A^128)(^B9=1f)]
+  [20(^87^12A)(^8D=0)(^C3=32)(^8E=0)(^83^12C)(^84^12D)(^89^12E)(^C4=0)
+    (^B8=0)(^8A^12E)(^B9=20)]
+  [21(^87=sdk)(^8D=0)(^C3=33)(^8E=0)(^C4=0)(^89^131)(^B8=0)(^8A^131)
+    (^B9=21)]
+  [22(^87^132)(^8D=0)(^C3=34)(^8E=0)(^83^134)(^84^135)(^89^136)(^C4=0)
+    (^B8=0)(^8A^136)(^B9=22)]
+  [23(^87^137)(^8D=0)(^C3=35)(^8E=0)(^83^139)(^84^13A)(^89^13B)(^C4=0)
+    (^B8=0)(^8A^13B)(^B9=23)]
+  [24(^87^13C)(^8D=0)(^C3=36)(^8E=0)(^83^13E)(^84^13F)(^89^140)(^C4=0)
+    (^B8=0)(^8A^140)(^B9=24)]
+  [25(^87=)(^8D=0)(^C3=37)(^8E=2)(^C4=0)(^89^143)(^B8^164)(^8A^143)
+    (^B9=55)]
+  [26(^87^146)(^8D=0)(^C3=38)(^8E=0)(^83^148)(^84^149)(^89^14A)(^C4=0)
+    (^B8=0)(^8A^14A)(^B9=26)]
+  [27(^87^A8)(^8D=0)(^C3=39)(^8E=0)(^83^AA)(^84^AB)(^89^14C)(^C4=0)
+    (^B8=0)(^8A^14C)(^B9=27)]
+  [28(^87^14D)(^8D=0)(^C3=40)(^8E=0)(^83^14F)(^84^150)(^89^151)(^C4=0)
+    (^B8=0)(^8A^151)(^B9=28)]
+  [29(^87^152)(^8D=0)(^C3=41)(^8E=1)(^83^154)(^84^155)(^89^156)(^C4=0)
+    (^B8^191)(^8A^156)(^B9=41)]
+  [2A(^87^157)(^8D=0)(^C3=42)(^8E=0)(^83^159)(^84^15A)(^89^15B)(^C4=0)
+    (^B8=0)(^8A^15B)(^B9=2a)]
+  [2B(^87^15D)(^8D=0)(^C3=43)(^8E=0)(^83=MG,)(^84^160)(^89^161)(^C4=0)
+    (^B8=0)(^8A^161)(^B9=2b)]
+  [2C(^87^166)(^8D=0)(^C3=44)(^8E=0)(^83^168)(^84^169)(^89^16A)(^C4=0)
+    (^B8=0)(^8A^16A)(^B9=2c)]
+  [2D(^87^16C)(^8D=0)(^C3=45)(^8E=0)(^83=Dan)(^84^16F)(^89^170)(^C4=0)
+    (^B8=0)(^8A^170)(^B9=2d)]
+  [2E(^87^176)(^8D=0)(^C3=46)(^8E=0)(^83^178)(^84^179)(^89^17A)(^C4=0)
+    (^B8=0)(^8A^17A)(^B9=2e)]
+  [2F(^87^17C)(^8D=0)(^C3=47)(^8E=0)(^83^EF)(^84^17E)(^89^17F)(^C4=0)
+    (^B8=0)(^8A^17F)(^B9=2f)]
+  [30(^87^181)(^8D=0)(^C3=48)(^8E=0)(^83^182)(^84^97)(^89^183)(^C4=0)
+    (^B8=0)(^8A^183)(^B9=30)]
+  [31(^87^184)(^8D=0)(^C3=49)(^8E=0)(^C4=0)(^89^186)(^B8=0)(^8A^186)
+    (^B9=31)]
+  [32(^87^187)(^8D=0)(^C3=50)(^8E=0)(^83^189)(^84^18A)(^89^18B)(^C4=0)
+    (^B8=0)(^8A^18B)(^B9=32)]
+  [33(^87^18C)(^8D=0)(^C3=51)(^8E=1)(^83^18E)(^84^18F)(^89^190)(^C4=0)
+    (^B8^191)(^8A^190)(^B9=51)]}
+
+@$${4F{@
+[-2B:^80(^87^15D)(^8D=0)(^C3=43)(^8E=1)(^83=MG,)(^84^160)(^89^161)
+    (^C4=0)(^B8^191)(^8A^161)(^B9=43)]
+@$$}4F}@
+
+@$${50{@
+[-2E:^80(^87^176)(^8D=0)(^C3=46)(^8E=1)(^83^178)(^84^179)(^89^17A)
+    (^C4=0)(^B8^191)(^8A^17A)(^B9=46)]
+@$$}50}@
+
+@$${51{@
+
+<(192=Kumar, Mohan)(193=Mohan)(194=mohankumar@ti.com)>
+{1:^80 {(k^BC:c)(s=9)} 
+  [-34(^87^192)(^8D=0)(^C3=52)(^8E=0)(^83^8D)(^84^193)(^89^194)(^C4=0)
+    (^B8=0)(^8A^194)(^B9=34)]}
+[1:^82(^BB=34)]
+@$$}51}@
+
+@$${52{@
+
+<(195
+    =psdkra_leads@list.ti.com - Processor SDK RTOS Automotive Leads (May conta\
+in non-TIers\))(196=53)(197
+    =psdkra_leads@list.ti.com - Processor SDK RTOS Automotive Leads (May conta\
+in)(198=psdkra_leads@list.ti.com)>
+{1:^80 {(k^BC:c)(s=9)} 
+  [-35(^87^195)(^8D=0)(^C3=53)(^8E=0)(^83^197)(^84^97)(^89^198)(^C4=0)
+    (^B8=0)(^8A^198)(^B9=35)]}
+[1:^82(^BB=35)]
+@$$}52}@
+
+@$${53{@
+
+<(199=Bhatara, Sumeer)(19A=54)(19B=Bhatara,)(19C=Sumeer)(19D
+    =sumeerb@ti.com)>
+{1:^80 {(k^BC:c)(s=9)} 
+  [-36(^87^199)(^8D=0)(^C3=54)(^8E=0)(^83^19B)(^84^19C)(^89^19D)(^C4=0)
+    (^B8=0)(^8A^19D)(^B9=36)]}
+[1:^82(^BB=36)]
+@$$}53}@
+
+@$${54{@
+
+<(19E=Narayanan, Naveen)(19F=Narayanan,)(1A0=Naveen)(1A1=naveen.an@ti.com)>
+{1:^80 {(k^BC:c)(s=9)} 
+  [-37(^87^19E)(^8D=0)(^C3=55)(^8E=0)(^83^19F)(^84^1A0)(^89^1A1)(^C4=0)
+    (^B8=0)(^8A^1A1)(^B9=37)]}
+[1:^82(^BB=37)]
+@$$}54}@
+
+@$${55{@
+
+<(1A2=Kamath, Raghunandan)(1A3=56)(1A4=Kamath,)(1A5=Raghunandan)(1A6
+    =r-kamath@ti.com)>
+{1:^80 {(k^BC:c)(s=9)} 
+  [-38(^87^1A2)(^8D=0)(^C3=56)(^8E=0)(^83^1A4)(^84^1A5)(^89^1A6)(^C4=0)
+    (^B8=0)(^8A^1A6)(^B9=38)]}
+[1:^82(^BB=38)]
+@$$}55}@
+
+@$${56{@
+
+<(1A7=Goyal, Rahul)(1A8=57)(1A9=Goyal,)(1AA=Rahul)(1AB=rahulgoyal@ti.com)>
+{1:^80 {(k^BC:c)(s=9)} 
+  [-39(^87^1A7)(^8D=0)(^C3=57)(^8E=0)(^83^1A9)(^84^1AA)(^89^1AB)(^C4=0)
+    (^B8=0)(^8A^1AB)(^B9=39)]}
+[1:^82(^BB=39)]
+@$$}56}@
+
+@$${57{@
+
+<(1B1=3a)(1AC=Vanga, Rajesh)(1AD=58)(1AE=Vanga,)(1AF=Rajesh)(1B0
+    =vanga@ti.com)>
+{1:^80 {(k^BC:c)(s=9)} 
+  [-3A(^87^1AC)(^8D=0)(^C3=58)(^8E=0)(^83^1AE)(^84^1AF)(^89^1B0)(^C4=0)
+    (^B8=0)(^8A^1B0)(^B9=3a)]}
+[1:^82(^BB=3a)]
+@$$}57}@
+
+@$${58{@
+
+<(1B7=3b)(1B2=Mediratta, Manav)(1B3=59)(1B4=Mediratta,)(1B5=Manav)(1B6
+    =manav@ti.com)>
+{1:^80 {(k^BC:c)(s=9)} 
+  [-3B(^87^1B2)(^8D=0)(^C3=59)(^8E=0)(^83^1B4)(^84^1B5)(^89^1B6)(^C4=0)
+    (^B8=0)(^8A^1B6)(^B9=3b)]}
+[1:^82(^BB=3b)]
+@$$}58}@
+
+@$${59{@
+<(1B8=1530858402)>[-34:^80(^87^192)(^8D=0)(^C3=52)(^8E=1)(^83^8D)(^84^193)
+    (^89^194)(^C4=0)(^B8^1B8)(^8A^194)(^B9=52)]
+@$$}59}@
+
+@$${5A{@
+<(1BA=1530859575)(1B9=81)>[-33:^80(^87^18C)(^8D=0)(^C3=51)(^8E=2)(^83^18E)
+    (^84^18F)(^89^190)(^C4=0)(^B8^1BA)(^8A^190)(^B9=81)]
+@$$}5A}@
+
+@$${5B{@
+[-1:^80(^87^81)(^8D=0)(^C3=1)(^8E=2)(^83=R,)(^84^84)(^89^85)(^C4=0)
+    (^B8^1BA)(^8A^85)(^B9=1)]
+@$$}5B}@
+
+@$${5C{@
+<(1BB=1530873690)>[-D:^80(^87^C0)(^8D=0)(^C3=13)(^8E=2)(^83^C2)(^84^C3)
+    (^89^C4)(^C4=0)(^B8^1BB)(^8A^C4)(^B9=19)]
+@$$}5C}@
+
+@$${5D{@
+<(1BD=1530875570)(1BC=129)>[-33:^80(^87^18C)(^8D=0)(^C3=51)(^8E=3)
+    (^83^18E)(^84^18F)(^89^190)(^C4=0)(^B8^1BD)(^8A^190)(^B9=129)]
+@$$}5D}@
+
+@$${5F{@
+<(1BF=1532675922)(1BE=82)>[-16:^80(^87^ED)(^8D=0)(^C3=22)(^8E=4)(^83^EF)
+    (^84^F0)(^89^F1)(^C4=0)(^B8^1BF)(^8A^F1)(^B9=82)]
+@$$}5F}@
